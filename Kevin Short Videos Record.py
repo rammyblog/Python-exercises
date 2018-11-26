@@ -15,6 +15,8 @@ For each video in the project:
 Get the video's running time.
 Write the running time to the file.
 Close the file."""
+
+
 import os
 
 
